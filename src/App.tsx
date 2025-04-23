@@ -153,10 +153,10 @@ export const App = () => {
                   className={appSt.newAddImage}
                 />
               </div>
-              <div className={appSt.newAddImageWrapperMore}>+8</div>
+              <div className={appSt.newAddImageWrapperMore}>+5</div>
             </div>
             <Typography.Text view="primary-small">
-              11 ваших друзей уже подключили Альфа-Смарт
+              7 ваших друзей уже подключили Альфа-Смарт
             </Typography.Text>
           </div>
         </div>
